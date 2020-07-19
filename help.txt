@@ -1,11 +1,11 @@
 > LISTA KOMEND:
 *** Ogólne ***
 *!lmhelp* - to tutaj
-*!lmlegenda* - lista kart z numerami
+*!lmlegenda* - lista kart z numerami (!lminfo tez działa)
 
 ***Przed grą***
 *!lmdolacz* - dołącza do lobby (!lmjoin też działa)
-*!lmopusc* - opuszcza lobby
+*!lmopusc* - opuszcza lobby (!lmleave też działa)
 *!lmstart* - rozpoczyna grę
 *!lmgracze* - wypisuje graczy
 
