@@ -1,0 +1,34 @@
+> LISTA KOMEND:
+*** Ogólne ***
+*!lmhelp* - to tutaj
+*!lmlegenda* - lista kart z numerami
+
+***Przed grą***
+*!lmdolacz* - dołącza do lobby (!lmjoin też działa)
+*!lmopusc* - opuszcza lobby
+*!lmstart* - rozpoczyna grę
+*!lmgracze* - wypisuje graczy
+
+***W trakcie gry***
+*!lmopusc* - tutaj wychodzi z gry (automatyczna przegrana)
+*!lmkolejka* - printuje obecną kolejkę
+*!lmreka* - wysyła w dm karty na ręce
+*!lmile* - pokazuje ile zostało jeszcze kart do pociągnięcia
+*!lmreset* - jeżeli coś się spierdoli, gracze robią hard reset vote - musi być 50%
+*!lmpokojowki* - printuję graczy, którzy są chronieni pokojówką
+
+***Komendy kart***
+Karty z celem zagrywa się następująco:
+*![komenda] [cel, po @]*, np. "!lmksiaze @Finwelf"
+Przy tagu należy pamiętać, żeby był podświetlony, inaczej nie działa
+*!lmskrytobojca* lub *lm0* - zagrywa skrytobójcę (nic nie robi)
+*!lmstrazniczka* lub *lm1* - zagrywa strażniczkę
+Składnia strażniczki: *![lmstrazniczka|lm1] [cel, po @] [numer zgadywanej karty|nazwa zgadywanej karty]
+Numery i poprawne nazwy kart można znaleźć pod !lmlegenda
+*!lmksiadz* lub *lm2* - zagrywa księdza - karta z celem
+*!lmbaron* lub *lm3* - zagrywa barona - karta z celem
+*!lmpokojowka* lub *lm4* - zagrywa pokojowke
+*!lmksiaze* lub *lm5* - zagrywa ksiecia - karta z celem
+*!lmkrol* lub *lm6* - zagrywa krola - karta z celem
+*!lmhrabina* lub *lm7* - zagrywa Hrabinę
+Księżniczki *nie da się* zagrać - jeżeli jest czyjaś kolejka i ma tylko księżniczkę na ręku, pozostaje hard reset

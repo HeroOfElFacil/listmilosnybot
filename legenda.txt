@@ -1,0 +1,9 @@
+Księżniczka (8) - jeżeli odrzucisz księżniczkę, umierasz, 1 karta
+Hrabina (7) - jeżeli masz króla lub księcia na ręce, musisz odrzucić hrabinę, 1 karta
+Król (6) - zamieniasz się kartami ze wskazaną osobą, 1 karta
+Książe (5) - wskazana osoba odrzuca swoją kartą, 2 karty
+Pokojówka (4) - rzucając pokojówkę nie można być targetem do następnej tury, 2 karty
+Baron (3) - wyzywasz wybranego gracza na pojedynek, osoba z niższym numerem karty umiera, 2 karty
+Ksiądz (2) - widzisz rękę wskazanej osoby, 2 karty
+Strażniczka (1) - zgadujesz kartę wybranej osoby (nie można zgadywać strażniczek), jeżeli zgadniesz, umiera, 5 kart
+Skrytobójca (0) - jeżeli ktoś używa strażniczki, a target ma skrytobójcę na ręce, rzucający strażniczkę umiera, 1 karta
